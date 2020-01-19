@@ -16,6 +16,7 @@ Brooke enlisted shortly after England declared war against Germany on August 4, 
 
 ### I. PEACE
 
+```
 Now, God be thanked Who has matched us with His hour,
   And caught our youth, and wakened us from sleeping,
 With hand made sure, clear eye, and sharpened power,
@@ -32,9 +33,11 @@ Oh! we, who have known shame, we have found release there,
 Nothing to shake the laughing heart's long peace there
   But only agony, and that has ending;
     And the worst friend and enemy is Death.
+```
 
 ### II. SAFETY
 
+```
 Dear! of all happy in the hour, most blest
   He who has found our hid security,
 Assured in the dark tides of the world that rest,
@@ -49,9 +52,11 @@ War knows no power. Safe shall be my going,
   Secretly armed against all death's endeavor;
 Safe though all safety's lost; safe where men fall;
 And if these poor limbs die, safest of all.
+```
 
 ### III. THE DEAD
 
+```
 Blow out, you bugles, over the rich Dead!
   There's none of these so lonely and poor of old,
   But, dying, has made us rarer gifts than gold.
@@ -67,9 +72,11 @@ Honour has come back, as a king, to earth,
   And paid his subjects with a royal wage;
 And Nobleness walks in our ways again;
   And we have come into our heritage.
+```
 
 ### IV. THE DEAD
 
+```
 These hearts were woven of human joys and cares,
   Washed marvellously with sorrow, swift to mirth.
 The years had given them kindness. Dawn was theirs,
@@ -85,9 +92,11 @@ And lit by the rich skies, all day. And after,
 And wandering loveliness. He leaves a white
   Unbroken glory, a gathered radiance,
 A width, a shining peace, under the night.
+```
 
 ### V. THE SOLDIER
 
+```
 If I should die, think only this of me:
   That there's some corner of a foreign field
 That is for ever England. There shall be
@@ -103,9 +112,11 @@ And think, this heart, all evil shed away,
 Her sights and sounds; dreams happy as her day;
   And laughter, learnt of friends; and gentleness,
     In hearts at peace, under an English heaven.
+```
 
 ### THE TREASURE
 
+```
 When colour goes home into the eyes,
   And lights that shine are shut again
 With dancing girls and sweet birds' cries
@@ -121,3 +132,4 @@ Musing upon them; as a mother, who
 Has watched her children all the rich day through
 Sits, quiet-handed, in the fading light,
 When children sleep, ere night.
+```
